@@ -89,7 +89,7 @@ import ch.boye.httpclientandroidlib.protocol.SyncBasicHttpContext;
  * </pre>
  */
 public class AsyncHttpClient {
-    private static final String VERSION = "1.4.1";
+    private static final String VERSION = "1.4.3";
 
     private static final int DEFAULT_MAX_CONNECTIONS = 10;
     private static final int DEFAULT_SOCKET_TIMEOUT = 10 * 1000;
